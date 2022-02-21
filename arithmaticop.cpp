@@ -7,7 +7,7 @@ int main()
    int m1 = 5, m2 = 7;
    double d1 = 3.7, d2 = 8.0;
    
-    cout << "\n\n Display arithmetic operations with mixed data type :\n";
+    cout << "\n\n Display arithmetic operations with mixed data type n:\n";
 	cout << "---------------------------------------------------------\n";
    cout << fixed << setprecision(1);  
  
