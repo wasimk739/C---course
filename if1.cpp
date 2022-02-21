@@ -13,7 +13,7 @@ int test(int x, int y)
 int main() 
  {
   cout << test(1, 2) << endl;  
-  cout << test(3, 2) << endl;  
+  cout << test(4, 2) << endl;  
   cout << test(2, 2) << endl;  
   return 0;    
 }
