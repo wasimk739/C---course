@@ -1,1 +1,1 @@
-L1.push_back(7);
+srand(time(NULL));
