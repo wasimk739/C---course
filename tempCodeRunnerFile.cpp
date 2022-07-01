@@ -1,1 +1,1 @@
-srand(time(NULL));
+swap(x,y);
