@@ -14,7 +14,8 @@ class DemoDC {
    }
 };
 int main() {
-   DemoDC obj;
+   // DemoDC obj;
+   DemoDC(obj);
    obj.display();
    return 0;
 }
