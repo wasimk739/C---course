@@ -30,3 +30,7 @@ int main()
     cout<<"p1.y is = "<<p1.gety();
     return 0;
 }
+
+
+// shallow copy: dono variable k liye seperate memory alag alag change karna honga  
+// deep copy : ek variable ka reference dusre variable me aur changes ek me karenge toh dono me reflect karenga 
